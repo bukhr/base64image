@@ -11,6 +11,6 @@
   "repository": "github:bukhr/base64image",
   "author": "nmmf (https://github.com/nmmf)",
   "dependencies": {
-    "ckeditor": "^4.7.0"
+    "ckeditor4": "^4.7.0"
   }
 }

@@ -1,3 +1,6 @@
+>[!WARNING]  
+> **Marcado como archivado ya que dejamos de utilizar CKEditor en Buk**
+
 Base64Image Plugin for CKEditor 4
 =================================
 
